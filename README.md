@@ -1,9 +1,7 @@
-# React Native Exemplos
+![Image](images/github_banner.jpg)
 
-﻿![Image](images/github_banner.jpg)
-
-# Flutter Exemplos
-Vários Exemplos de Flutter
+# React-Native Exemplos
+Vários Exemplos de React-Native
 
 ### Se precisar é só chamar :heart:
 
@@ -11,7 +9,7 @@ Vários Exemplos de Flutter
 
 ## Examplos de Aplicativos
 
-1.  [Exemplo Basico](/exemplo_basico)
+
 
 ### Criado e mantido por
 
